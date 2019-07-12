@@ -1,3 +1,10 @@
+## Demo
+To demo this app, download the app Expo and visit this [URL](https://exp.host/@refai1/image-feed)
+
+## Description
+This application is a simple instagram clone. It grabs images from the unsplash.it API and displays them in an image feed. You can leave locally stored comments on the images. Images are loaded dynamically within a window as you scroll down.
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
